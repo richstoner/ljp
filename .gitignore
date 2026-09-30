@@ -1,0 +1,2 @@
+# Raw SanGIS exports carry assessed values; only data/parcels.geojson is published.
+*.xlsx
